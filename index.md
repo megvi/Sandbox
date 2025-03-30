@@ -1,2 +1,1 @@
-# Sandbox
-Sandbox
+{% include_relative standard.md %}
